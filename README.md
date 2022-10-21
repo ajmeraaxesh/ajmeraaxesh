@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ajmeraaxesh
-- 👀 I’m interested in tech adn learning
+- 👀 I’m interested in tech and learning new things
 - 🌱 I’m currently learning Remix, Planetscale
 - 💞️ I’m looking to collaborate on  side project and other development
 - 📫 How to reach me ajmeraaxesh@gmail.com
